@@ -1,8 +1,21 @@
-# React + Vite
+# Fast React Pizza Co. | Full React Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Screenshot](/public/screenshots/screenshot.jpeg)
+![Screenshot](/public/screenshots/1.jpeg)
+![Screenshot](/public/screenshots/1.2.jpeg)
+![Screenshot](/public/screenshots/2.jpeg)
+![Screenshot](/public/screenshots/3.jpeg)
+![Screenshot](/public/screenshots/4.jpeg)
 
-Currently, two official plugins are available:
+## Run Locally
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+To run the app locally, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/reactexcel/fast_pizza.git`
+2. Navigate to the project directory: `cd Fast-Pizza`
+3. Install dependencies: `npm install`
+
+## Usage
+
+1. Start the development server: `npm run dev`
+2. Open your browser and go to `http://localhost:5173/` to use the app.
